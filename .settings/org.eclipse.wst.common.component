@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="axis2-webservice-client-project">
+        <wb-resource deploy-path="/" source-path="/src" tag="defaultRootSource"/>
+        <property name="java-output-path" value="/axis2-webservice-client-project/build/classes"/>
+    </wb-module>
+</project-modules>
