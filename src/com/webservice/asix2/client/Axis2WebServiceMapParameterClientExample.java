@@ -2,13 +2,7 @@ package com.webservice.asix2.client;
 
 
 import java.rmi.RemoteException;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Map.Entry;
-import java.util.Set;
-
 import org.apache.axis2.AxisFault;
-
 
 import com.webservice.asix2.service.Axis2WebServiceMapParameterExampleStub;
 import com.webservice.asix2.service.Axis2WebServiceMapParameterExampleStub.Entry1;
