@@ -6,4 +6,4 @@
 @echo ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 java -cp "Axis2Main.jar;lib/*" Axis2Main
 @echo :: -- Ending Axis2Main :::::::::::::::::::::::::::::::::
-pause
+::pause
